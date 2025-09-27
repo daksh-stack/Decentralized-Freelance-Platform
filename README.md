@@ -1,4 +1,4 @@
-<img width="1918" height="1079" alt="Screenshot 2025-09-27 135444" src="https://github.com/user-attachments/assets/7f4566bd-ea0e-4123-a52a-27f45dc818bd" /># Decentralized Freelance Platform
+# Decentralized Freelance Platform
 
 ## Project Title
 **Decentralized Freelance Platform - Complete Gig Economy on Blockchain**
